@@ -1,0 +1,9 @@
+
+
+Prerequisites:
+
+step01: create maven project
+step02:  update pom.xml with required dependencies like rest assured, json, testng, apache-poi etc.
+step03: create folder structure
+
+
